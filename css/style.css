@@ -472,7 +472,7 @@ body.one-content-column-version .content thead {
         bottom: 0;
         right: -405px;
         left: auto;
-        background-color: #fff;
+        background-color: black;
         margin: 0;
         overflow-x: hidden;
         padding-top: 83px;
@@ -505,7 +505,7 @@ body.one-content-column-version .content thead {
         left: 0;
         right: 0;
         z-index: 4;
-        background-color: #f4f5f8;
+        background-color: black;
     }
     .content-logo .logo {
         margin-right: 65px;
