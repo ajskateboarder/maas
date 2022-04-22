@@ -413,16 +413,16 @@ body.one-content-column-version .content h3,
 body.one-content-column-version .content h4,
 body.one-content-column-version .content h5,
 body.one-content-column-version .content h6 {
-    color: #59C3C3;
+    color: black;
 }
 body.one-content-column-version p {
-    color: #D6F0F0;
+    color: #303030;
 }
 body.one-content-column-version .content table td {
-    color: #D6F0F0;
+    color: #303030;
 }
 body.one-content-column-version .content thead {
-    color: #417179;
+    color: black;
 }
 
 /* RESPONSIVE
