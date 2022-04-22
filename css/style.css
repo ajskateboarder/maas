@@ -107,7 +107,7 @@ pre{
     bottom: 0;
     width: 300px;
     box-sizing: border-box;
-    background-color: #f4f5f8;
+    background-color: black;
     overflow-x: hidden;
     font-size: 18px;
 }
@@ -120,11 +120,11 @@ pre{
     position: relative;
     font-size: 14px;
     margin-top: 5px;
-    color: #777A7A;
+    color: white;
 }
 .left-menu .info b {
     font-weight: 500;
-    color: #034c8f;
+    color: white;
 }
 .content-logo{
     position: relative;
@@ -143,7 +143,7 @@ pre{
     display: inline-block;
     margin-left: 10px;
     vertical-align: middle;
-    color: #323F4C;
+    color: white;
     font-size: 1.1em;
 }
 .content-menu{
@@ -164,7 +164,8 @@ pre{
 }
 .content-menu ul li:hover,
 .content-menu ul li.active{
-    background-color:#DCDEE9;
+    background-color: white;
+    color: black
 }
 .content-menu ul li:hover a,
 .content-menu ul li.active a{
@@ -180,7 +181,7 @@ pre{
 }
 .content-menu ul li a{
     padding: 12px 13.25%;
-    color: #777A7A;
+    color: white;
     letter-spacing: 0.025em;
     line-height: 1.1;
     display: block;
